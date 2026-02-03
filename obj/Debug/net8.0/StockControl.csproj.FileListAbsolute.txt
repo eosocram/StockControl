@@ -1,0 +1,15 @@
+/home/usuario/RiderProjects/StockControl/obj/Debug/net8.0/StockControl.GeneratedMSBuildEditorConfig.editorconfig
+/home/usuario/RiderProjects/StockControl/obj/Debug/net8.0/StockControl.AssemblyInfoInputs.cache
+/home/usuario/RiderProjects/StockControl/obj/Debug/net8.0/StockControl.AssemblyInfo.cs
+/home/usuario/RiderProjects/StockControl/obj/Debug/net8.0/StockControl.csproj.CoreCompileInputs.cache
+/home/usuario/RiderProjects/StockControl/obj/Debug/net8.0/StockControl.sourcelink.json
+/home/usuario/RiderProjects/StockControl/bin/Debug/net8.0/StockControl
+/home/usuario/RiderProjects/StockControl/bin/Debug/net8.0/StockControl.deps.json
+/home/usuario/RiderProjects/StockControl/bin/Debug/net8.0/StockControl.runtimeconfig.json
+/home/usuario/RiderProjects/StockControl/bin/Debug/net8.0/StockControl.dll
+/home/usuario/RiderProjects/StockControl/bin/Debug/net8.0/StockControl.pdb
+/home/usuario/RiderProjects/StockControl/obj/Debug/net8.0/StockControl.dll
+/home/usuario/RiderProjects/StockControl/obj/Debug/net8.0/refint/StockControl.dll
+/home/usuario/RiderProjects/StockControl/obj/Debug/net8.0/StockControl.pdb
+/home/usuario/RiderProjects/StockControl/obj/Debug/net8.0/StockControl.genruntimeconfig.cache
+/home/usuario/RiderProjects/StockControl/obj/Debug/net8.0/ref/StockControl.dll
